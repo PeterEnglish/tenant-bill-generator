@@ -11,7 +11,7 @@
 
 ## Future Contributions
 I would like to create a tkinter gui that allows you to enter new tenants on a per-household basis, and also new households.
-I also think that having a database-based back end would be a good idea, with a file store of picture of the house condition and the point of commencement of tenancy.
+I also think that having a database-based back end would be a good idea, with a file store of pictures of the house condition and the point of commencement of tenancy.
 
 ## License
 MIT License

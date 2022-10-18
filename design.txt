@@ -14,3 +14,7 @@ Objects:
 
 Extras:
     Add chore-sharing and chore addition.
+
+NB: I'm sorry, but this guy is terrible. I am going to implement my own bill-sharing app useing classes.
+
+1.Add rent amount to flatmates

@@ -2,7 +2,7 @@
 
 ## This is a class-based python pdf-bill generator that allows you generate pdfs of rent due per person per household
 
-## Example Image:
+## Example PDF:
 ![BillPdfImage](https://user-images.githubusercontent.com/59273598/196341868-c940e04a-e8e8-4e0e-814e-075676ac720a.JPG)
 <img style="float: right; width:300px" src="[BillPdfImage](https://user-images.githubusercontent.com/59273598/196341868-c940e04a-e8e8-4e0e-814e-075676ac720a.JPG)">
 
